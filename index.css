@@ -3,6 +3,21 @@ body {
     align-items: center;
     box-sizing: border-box;
 }
+.title{
+    padding-top: 40px;
+    width: 100%;
+    background: #1B244A;
+    height: 100px;
+    font-family: 'Cursed Timer ULiL';
+    font-style:normal;
+    font-weight: 600px;
+    font-size: 60px;
+    line-height: 36px;
+    text-align: center;
+    color: #EEEEEE;
+    border-bottom: #F94F6D solid 2px;
+    text-transform: capitalize;
+}
 
 .container {
     display: flex;
